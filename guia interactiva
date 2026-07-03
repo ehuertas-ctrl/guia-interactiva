@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduParticipa 360</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow">
+
+<div class="container">
+
+<a class="navbar-brand fw-bold" href="#">
+
+<i class="fa-solid fa-graduation-cap"></i>
+
+EduParticipa 360
+
+</a>
+
+<button class="navbar-toggler" data-bs-toggle="collapse"
+data-bs-target="#menu">
+
+<span class="navbar-toggler-icon"></span>
+
+</button>
+
+<div class="collapse navbar-collapse" id="menu">
+
+<ul class="navbar-nav ms-auto">
+
+<li class="nav-item"><a class="nav-link" href="#">Inicio</a></li>
+
+<li class="nav-item"><a class="nav-link" href="proyecto.html">Proyecto</a></li>
+
+<li class="nav-item"><a class="nav-link" href="modulos.html">Módulos</a></li>
+
+<li class="nav-item"><a class="nav-link" href="actividades.html">Actividades</a></li>
+
+<li class="nav-item"><a class="nav-link" href="quiz.html">Evaluación</a></li>
+
+<li class="nav-item"><a class="nav-link" href="docente.html">Docente</a></li>
+
+<li class="nav-item"><a class="nav-link" href="estudiante.html">Estudiante</a></li>
+
+<li class="nav-item"><a class="nav-link" href="contacto.html">Contacto</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+</nav>
+
+
+<header class="hero">
+
+<div class="container text-center">
+
+<h1>EDUPARTICIPA 360</h1>
+
+<h3>Guía Interactiva Virtual</h3>
+
+<p>
+
+Diseño de una guía interactiva virtual para mejorar la participación
+de los estudiantes en actividades educativas virtuales
+en el contexto universitario.
+
+</p>
+
+<a href="proyecto.html" class="btn btn-warning btn-lg">
+
+Comenzar
+
+</a>
+
+</div>
+
+</header>
+
+
+<section class="container mt-5">
+
+<div class="row">
+
+<div class="col-md-4">
+
+<div class="card shadow">
+
+<div class="card-body text-center">
+
+<i class="fa-solid fa-book fa-3x text-primary"></i>
+
+<h4>Módulos</h4>
+
+<p>
+
+Contenido interactivo organizado por unidades.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card shadow">
+
+<div class="card-body text-center">
+
+<i class="fa-solid fa-gamepad fa-3x text-success"></i>
+
+<h4>Gamificación</h4>
+
+<p>
+
+Insignias, puntos y progreso del estudiante.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card shadow">
+
+<div class="card-body text-center">
+
+<i class="fa-solid fa-chart-column fa-3x text-danger"></i>
+
+<h4>Estadísticas</h4>
+
+<p>
+
+Panel docente con indicadores de participación.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="container mt-5">
+
+<div class="row">
+
+<div class="col-md-6">
+
+<img src="img/banner.jpg" class="img-fluid rounded">
+
+</div>
+
+<div class="col-md-6">
+
+<h2>¿Por qué EduParticipa 360?</h2>
+
+<p>
+
+Esta plataforma busca fortalecer la participación estudiantil mediante
+actividades dinámicas, recursos digitales y estrategias de gamificación.
+
+</p>
+
+<ul>
+
+<li>Videos educativos</li>
+
+<li>Foros</li>
+
+<li>Actividades colaborativas</li>
+
+<li>Evaluaciones</li>
+
+<li>Retroalimentación</li>
+
+<li>Seguimiento del progreso</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</section>
+
+
+<footer class="bg-primary text-white text-center p-4 mt-5">
+
+<h5>
+
+Edwin Noe Huertas Hoyos
+
+</h5>
+
+<p>
+
+Universidad Nacional Intercultural Fabiola Salazar Leguía
+
+</p>
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
